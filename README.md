@@ -5,9 +5,9 @@
 Horiseon's marketing webpage was refactored to enhance the accessibility for visually impaired users relying on screen readers. The HTML code was adjusted to include semantic elements and alt attributes on images to provide clear description to the users. The CSS styling code was also reorganized to follow a semantic, more concise structure. Some CSS structure was consolidated to avoid repeating lines of code, making it easier for future developers to understand and modify the file for future use. The new and improved Horiseon website can be found here: https://telacaul.github.io/accessible-refactor/
 
 #### Screenshot
-![Horiseon1](./Develop/assets/images/screenshot1.jpg)
-![Horiseon2](./Develop/assets/images/screenshot2.jpg)
-![Horiseon3](./Develop/assets/images/screenshot3.jpg)
+![Horiseon1](./assets/images/screenshot1.jpg)
+![Horiseon2](./assets/images/screenshot2.jpg)
+![Horiseon3](./assets/images/screenshot3.jpg)
 
 ## User Story
 #### As a marketing agency
