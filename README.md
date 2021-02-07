@@ -6,6 +6,8 @@ Horiseon's marketing webpage was refactored to enhance the accessibility for vis
 
 #### Screenshot
 ![Horiseon1](./Develop/assets/images/screenshot1.jpg)
+![Horiseon2](./Develop/assets/images/screenshot2.jpg)
+![Horiseon3](./Develop/assets/images/screenshot3.jpg)
 
 ## User Story
 #### As a marketing agency
