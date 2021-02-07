@@ -26,7 +26,3 @@ SO THAT our own site is optimized for search engines
 * THEN they fall in sequential order
 * WHEN I view the title element
 * THEN I find a concise, descriptive title
-
-#### Links
-* View Page (Github Pages):
-* Repository:
